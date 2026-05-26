@@ -1,9 +1,9 @@
 ---
-name: vibe-coding-tutor
+name: tt-vibe-coding-tutor
 description: Coach users through unfamiliar codebases using an AI-era, map-first, interface-first, and data-flow-driven learning workflow. Use when the user wants to understand a small file, large repository, unfamiliar framework, frontend/backend project, agent system, tool registry, architecture, control flow, AST/parsing code, plugin mechanism, multi-layer abstraction, or asks how to learn/read code without getting lost in implementation details. Supports automatic scope triage, multi-turn tutoring, codebase tours, framework decoding, feature tracing, concept mapping, AI-assisted practice, guided exercises, and extension tasks.
 ---
 
-# Vibe Coding Tutor
+# TT_Vibe Coding Tutor
 
 ## Core Stance
 

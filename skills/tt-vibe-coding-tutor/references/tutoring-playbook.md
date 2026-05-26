@@ -1,4 +1,4 @@
-# Vibe Coding Tutor Playbook
+# TT_Vibe Coding Tutor Playbook
 
 ## Session Modes
 

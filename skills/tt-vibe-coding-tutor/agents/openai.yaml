@@ -1,0 +1,4 @@
+interface:
+  display_name: "TT_Vibe Coding Tutor"
+  short_description: "Learn unfamiliar codebases through interfaces and data flow"
+  default_prompt: "Use $tt-vibe-coding-tutor to guide me through an unfamiliar codebase with interface-first, data-flow-driven learning."
