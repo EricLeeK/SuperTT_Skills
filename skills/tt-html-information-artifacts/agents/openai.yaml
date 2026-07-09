@@ -1,0 +1,4 @@
+interface:
+  display_name: "TT_HTML Information Artifacts"
+  short_description: "Turn dense information into readable HTML artifacts"
+  default_prompt: "Use $tt-html-information-artifacts to turn this analysis into a single-file HTML artifact for review."
