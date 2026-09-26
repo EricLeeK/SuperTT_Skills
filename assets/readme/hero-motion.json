@@ -1,0 +1,50 @@
+{
+  "width": 1200,
+  "fps": 30,
+  "duration": 5.2,
+  "colors": 256,
+  "dither": "none",
+  "clip_to_base_alpha": true,
+  "max_size_mb": 2.0,
+  "layers": [
+    {
+      "id": "artifact-skill",
+      "enter": {
+        "start": 0.15,
+        "end": 1.1,
+        "from": [
+          22,
+          24
+        ]
+      },
+      "exit": {
+        "start": 4.35,
+        "end": 5.16,
+        "to": [
+          0,
+          -12
+        ]
+      }
+    },
+    {
+      "id": "tutor-skill",
+      "enter": {
+        "start": 0.43,
+        "end": 1.38,
+        "from": [
+          -24,
+          18
+        ]
+      },
+      "exit": {
+        "start": 4.35,
+        "end": 5.16,
+        "to": [
+          0,
+          -12
+        ]
+      }
+    }
+  ],
+  "reveals": []
+}

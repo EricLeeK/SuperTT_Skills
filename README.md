@@ -1,21 +1,35 @@
+<p align="center">
+  <img src="./assets/readme/hero.gif" width="100%" alt="Reusable workflows for understanding codebases and making information useful. Conceptual overview.">
+</p>
+
 # SuperTT Skills
 
-SuperTT Skills is an open-source repository for high-quality Codex skills created by Super TT.
+Reusable Codex workflows created by Super TT: turn dense information into useful HTML, or learn an unfamiliar codebase through its structure and data flow.
 
-This repository will grow over time as more reusable skills are added. Each skill is designed to capture a practical workflow, learning method, or development pattern that can help people work more effectively with AI coding agents.
+## Choose a workflow
 
-All Super TT skill IDs use the `tt-` prefix, and display names use the `TT_` prefix, so they are easy to identify and search.
-
-## Included Skills
+| When you want to… | Start here |
+| --- | --- |
+| Explain, compare, inspect, or interact with information | [TT_HTML Information Artifacts](skills/tt-html-information-artifacts/SKILL.md) |
+| Understand a codebase and practice changing it | [TT_Vibe Coding Tutor](skills/tt-vibe-coding-tutor/SKILL.md) |
 
 ### TT_HTML Information Artifacts
 
-`tt-html-information-artifacts` turns dense information into single-file HTML artifacts that are easier to scan, compare, tune, and share than plain Markdown. It is useful for visual explainers, implementation plans, research syntheses, comparison grids, code review explainers, lightweight dashboards, playgrounds, custom editors, and copy/export UIs.
-
-Location: [`skills/tt-html-information-artifacts`](skills/tt-html-information-artifacts)
+`tt-html-information-artifacts` produces single-file HTML artifacts such as visual explainers, research syntheses, comparison grids, lightweight dashboards, playgrounds, and copy/export tools. The focus is a useful reading or interaction experience.
 
 ### TT_Vibe Coding Tutor
 
-`tt-vibe-coding-tutor` is an AI-era codebase learning coach. It helps learners understand unfamiliar codebases by choosing the right scale of exploration, mapping project structure, tracing data flow, identifying contracts and extension points, and practicing with AI-assisted implementation loops.
+`tt-vibe-coding-tutor` starts with a map of the repository, follows data through the system, identifies contracts and extension points, and uses bounded exercises to turn that map into practical understanding.
 
-Location: [`skills/tt-vibe-coding-tutor`](skills/tt-vibe-coding-tutor)
+## Use a skill
+
+Open the relevant `SKILL.md` above and follow its workflow in a compatible coding-agent environment. Each skill is self-contained under [`skills/`](skills/); skill IDs use the `tt-` prefix and display names use `TT_`.
+
+The shared HTML design guidance is in [`HTML-DESIGN-GUIDE.md`](HTML-DESIGN-GUIDE.md).
+
+<details>
+<summary>Static overview</summary>
+
+[Open the static SVG](./assets/readme/hero.svg).
+
+</details>

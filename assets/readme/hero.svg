@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">SuperTT Skills</title>
+  <desc id="desc">Reusable workflows for understanding codebases and making information useful. The diagram is a conceptual illustration, not a benchmark or application screenshot.</desc>
+  <defs>
+    <clipPath id="frame">
+      <rect width="1200" height="440" rx="24" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect x="0" y="0" width="1200" height="440" rx="24" fill="#2346d2" />
+    <text x="60" y="72" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#d8f477" text-anchor="start">WORKFLOWS FOR AI CODING</text>
+    <text x="60" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="78" font-weight="700" fill="#ffffff" text-anchor="start">SuperTT</text>
+    <text x="60" y="248" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="78" font-weight="700" fill="#ffffff" text-anchor="start">Skills</text>
+    <text x="60" y="302" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="400" fill="#ffffff" text-anchor="start">Make information useful.</text>
+    <text x="60" y="337" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="400" fill="#ffffff" text-anchor="start">Make codebases understandable.</text>
+    <text x="60" y="400" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#d8f477" text-anchor="start">TWO SKILLS  /  ONE REUSABLE WORKFLOW LIBRARY</text>
+    <g id="artifact-skill">
+      <rect x="690" y="70" width="428" height="177" rx="10" fill="#f5f6ec" stroke="#f5f6ec" stroke-width="2" />
+      <text x="719" y="110" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#3850a0" text-anchor="start">TT_ / INFORMATION ARTIFACTS</text>
+      <text x="719" y="155" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="650" fill="#152960" text-anchor="start">Brief → interactive HTML</text>
+      <rect x="718" y="178" width="80" height="36" rx="5" fill="#d8f477" />
+      <rect x="812" y="178" width="80" height="36" rx="5" fill="#cbd4f2" />
+      <rect x="906" y="178" width="180" height="36" rx="5" fill="#cbd4f2" />
+    </g>
+    <g id="tutor-skill">
+      <rect x="647" y="267" width="428" height="127" rx="10" fill="#d8f477" stroke="#d8f477" stroke-width="2" />
+      <text x="675" y="307" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#385337" text-anchor="start">TT_ / VIBE CODING TUTOR</text>
+      <text x="675" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="28" font-weight="650" fill="#1a2b3c" text-anchor="start">Map → trace → practice</text>
+    </g>
+  </g>
+</svg>
