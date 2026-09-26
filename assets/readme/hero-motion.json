@@ -1,50 +1,23 @@
 {
   "width": 1200,
   "fps": 30,
-  "duration": 5.2,
+  "duration": 6.0,
   "colors": 256,
   "dither": "none",
+  "transparent_color": "#ff00ff",
   "clip_to_base_alpha": true,
-  "max_size_mb": 2.0,
-  "layers": [
+  "max_size_mb": 3.0,
+  "layers": [],
+  "reveals": [
     {
-      "id": "artifact-skill",
-      "enter": {
-        "start": 0.15,
-        "end": 1.1,
-        "from": [
-          22,
-          24
-        ]
-      },
+      "id": "working-path",
+      "axis": "x",
+      "start": 0.35,
+      "end": 1.6,
       "exit": {
-        "start": 4.35,
-        "end": 5.16,
-        "to": [
-          0,
-          -12
-        ]
-      }
-    },
-    {
-      "id": "tutor-skill",
-      "enter": {
-        "start": 0.43,
-        "end": 1.38,
-        "from": [
-          -24,
-          18
-        ]
-      },
-      "exit": {
-        "start": 4.35,
-        "end": 5.16,
-        "to": [
-          0,
-          -12
-        ]
+        "start": 5.0,
+        "end": 5.96
       }
     }
-  ],
-  "reveals": []
+  ]
 }

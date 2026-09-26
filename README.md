@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.gif" width="100%" alt="Reusable workflows for understanding codebases and making information useful. Conceptual overview.">
+  <img src="./assets/readme/hero.gif" width="100%" alt="两种真实技能：把信息做成可交互 HTML，以及通过地图、接口和数据流学习代码库；画板为流程示意。">
 </p>
 
 # SuperTT Skills
@@ -20,6 +20,15 @@ Reusable Codex workflows created by Super TT: turn dense information into useful
 ### TT_Vibe Coding Tutor
 
 `tt-vibe-coding-tutor` starts with a map of the repository, follows data through the system, identifies contracts and extension points, and uses bounded exercises to turn that map into practical understanding.
+
+<details>
+<summary>TT_HTML Information Artifacts poster</summary>
+
+<p align="center">
+  <img src="./assets/posters/tt-html-information-artifacts-poster.png" width="620" alt="Existing TT_HTML skill poster: visual explainers, interactive reports, and copy/export workflows.">
+</p>
+
+</details>
 
 ## Use a skill
 
