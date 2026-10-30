@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.gif" width="100%" alt="两种真实技能：把信息做成可交互 HTML，以及通过地图、接口和数据流学习代码库；画板为流程示意。">
+  <img src="./assets/readme/hero.jpg" width="100%" alt="两种真实技能：把信息做成可交互 HTML，以及通过地图、接口和数据流学习代码库；画板为流程示意。">
 </p>
 
 # SuperTT Skills
